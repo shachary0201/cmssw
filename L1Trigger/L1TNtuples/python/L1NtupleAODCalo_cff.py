@@ -15,6 +15,6 @@ L1NtupleAODCalo = cms.Sequence(
   +l1JetRecoTree
   +l1MetFilterRecoTree
   +l1ElectronRecoTree
-  +l1TauRecoTree
+#  +l1TauRecoTree
 )
 
